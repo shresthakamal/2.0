@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Aug  1 21:46:56 2022
+# Make data base, printed on Mon Aug  1 21:56:06 2022
 
 # Variables
 
@@ -69,7 +69,6 @@ XAUTHORITY = /run/user/1000/gdm/Xauthority
 # makefile
 MAKEFLAGS = pqrR
 # environment
- 
 DBUS_STARTER_ADDRESS = unix:path=/run/user/1000/bus,guid=e21a64a19d10be3b714962f562e7eaa0
 # makefile
 CURDIR := /home/kamal/Downloads/website/shresthakamal 2.0
@@ -102,7 +101,7 @@ SNAP_REEXEC =
 # environment
 ZSH = /home/kamal/.oh-my-zsh
 # environment
-VSCODE_PID = 20494
+VSCODE_PID = 23440
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -210,7 +209,7 @@ MANAGERPID = 1982
 # environment
 DBUS_STARTER_BUS_TYPE = session
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 20446
+GIO_LAUNCHED_DESKTOP_FILE_PID = 23391
 # environment
 PAGER = less
 # environment
@@ -278,9 +277,9 @@ SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd
 
 # Directories
 
-# . (device 2052, inode 14945229): 33 files, no impossibilities.
+# . (device 2052, inode 14945229): 34 files, no impossibilities.
 
-# 33 files, no impossibilities in 1 directories.
+# 34 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -289,6 +288,7 @@ SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd
 # Files
 
 # Not a target:
+ 
 Makefile:
 #  Implicit rule search has been done.
 #  Last modified 2022-07-22 16:25:31.037349
@@ -331,15 +331,14 @@ build:
 
 # No 'vpath' search paths.
 
- 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 40 / storage = 365 B / avg = 9 B
-# current buf: size = 8162 B / used = 365 B / count = 40 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 41 / storage = 370 B / avg = 9 B
+# current buf: size = 8162 B / used = 370 B / count = 41 / avg = 9 B
 
-# strcache performance: lookups = 46 / hit rate = 13%
+# strcache performance: lookups = 47 / hit rate = 12%
 # hash-table stats:
-# Load=40/8192=0%, Rehash=0, Collisions=0/46=0%
-# Finished Make data base on Mon Aug  1 21:46:56 2022
+# Load=41/8192=1%, Rehash=0, Collisions=0/47=0%
+# Finished Make data base on Mon Aug  1 21:56:06 2022
 
  
